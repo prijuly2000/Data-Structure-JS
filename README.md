@@ -1,2 +1,2 @@
 # Data-Structure-JS
-High performance JS data structures.
+High performance data structures in JavaScript.
